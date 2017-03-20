@@ -1,0 +1,62 @@
+body{
+	background-image: url("../images/linear.png");
+}
+
+.head{
+	background-color: white;
+	font-size: 46px;
+	color: blue;
+	position: fixed;
+	padding: 10px;
+	margin-bottom: 5px;
+	top:0px;
+	min-width: 100%;
+	min-height: 40px;
+	text-shadow:  2px 4px red;
+	text-align: center;
+}
+
+.footer{
+	position:fixed;
+	min-width: 100%;
+	max-height:50px;
+	bottom: 0px;
+	text-align: center;
+	background-color: white;
+	padding: 15px;
+	color: blue;
+	font-size: 24px;
+	margin-top:20px;
+	text-shadow:  2px 4px red;
+
+}
+
+.input{
+	position: relative;
+	top:80px;
+}
+
+.dressing{
+	color: white;
+	font-size: 20px;
+}
+
+ .anim, #addedAni{
+
+	font-size: 20px;
+	border: 2px solid, white;
+	margin: 0 5px 25px 5px ;
+
+	padding: 10px;
+
+}
+.displayThings{
+	font-size: 20px;
+	border: 2px solid, white;
+	margin: 0 5px 25px 5px ;
+
+	padding: 10px;
+	position: relative;
+	top:80px;
+
+}
